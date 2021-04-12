@@ -1,0 +1,2732 @@
+Script started on Mon Mar 22 09:53:54 2021
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[Jartem@MBP-Artem demo3 % [K[?2004hnnpn m start[?2004l
+
+> demo3@0.1.0 start /Users/artem/MEGA/OAMK/H2C - React/React_app/demo3
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.1.65/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /Users/artem/MEGA/OAMK/H2C - React/React_app/demo3/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+[2J[3J[H[36mStarting the development server...[39m
+[36m[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+^C
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[Jartem@MBP-Artem demo3 % [K[?2004hnpm start[?2004l
+
+> demo3@0.1.0 start /Users/artem/MEGA/OAMK/H2C - React/React_app/demo3
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.1.65/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /Users/artem/MEGA/OAMK/H2C - React/React_app/demo3/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+[2J[3J[H[36mStarting the development server...[39m
+[36m[39m
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/App.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/demo3/src/App.js: Unexpected token (7:2)
+
+[0m [90m  5 |[39m   [36mreturn[39m ([0m
+[0m [90m  6 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  7 |[39m   )[33m;[39m[0m
+[0m [90m    |[39m   [31m[1m^[22m[39m[0m
+[0m [90m  8 |[39m }[0m
+[0m [90m  9 |[39m[0m
+[0m [90m 10 |[39m [36mexport[39m [36mdefault[39m [33mApp[39m[33m;[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/App.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/demo3/src/App.js: Unterminated JSX contents (6:2)
+
+[0m [90m 4 |[39m [36mfunction[39m [33mApp[39m() {[0m
+[0m [90m 5 |[39m   [36mreturn[39m ([0m
+[0m[31m[1m>[22m[39m[90m 6 |[39m [33m<[39m[33m>[39m[0m
+[0m [90m   |[39m   [31m[1m^[22m[39m[0m
+[0m [90m 7 |[39m   )[33m;[39m[0m
+[0m [90m 8 |[39m }[0m
+[0m [90m 9 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/App.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/demo3/src/App.js: Unterminated JSX contents (6:3)
+
+[0m [90m 4 |[39m [36mfunction[39m [33mApp[39m() {[0m
+[0m [90m 5 |[39m   [36mreturn[39m ([0m
+[0m[31m[1m>[22m[39m[90m 6 |[39m [33m<[39m[33mp[39m[33m>[39m[0m
+[0m [90m   |[39m    [31m[1m^[22m[39m[0m
+[0m [90m 7 |[39m   )[33m;[39m[0m
+[0m [90m 8 |[39m }[0m
+[0m [90m 9 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/App.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/demo3/src/App.js: Unexpected token (7:2)
+
+[0m [90m  5 |[39m   [36mreturn[39m ([0m
+[0m [90m  6 |[39m [33m<[39m[33mp[39m[33m>[39m[33m<[39m[0m
+[0m[31m[1m>[22m[39m[90m  7 |[39m   )[33m;[39m[0m
+[0m [90m    |[39m   [31m[1m^[22m[39m[0m
+[0m [90m  8 |[39m }[0m
+[0m [90m  9 |[39m[0m
+[0m [90m 10 |[39m [36mexport[39m [36mdefault[39m [33mApp[39m[33m;[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/App.js
+  [1mLine 1:8:[22m  'logo' is defined but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/App.js
+  [1mLine 1:8:[22m  'logo' is defined but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/index.js
+  [1mLine 5:8:[22m  'reportWebVitals' is defined but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+ç ^C
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[Jartem@MBP-Artem demo3 % [K[?2004hnpm start[?2004l
+
+> demo3@0.1.0 start /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch
+> react-scripts start
+
+[34mℹ[39m [90m｢wds｣[39m: Project is running at http://192.168.1.65/
+[34mℹ[39m [90m｢wds｣[39m: webpack output is served from 
+[34mℹ[39m [90m｢wds｣[39m: Content not from webpack is served from /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/public
+[34mℹ[39m [90m｢wds｣[39m: 404s will fallback to /
+[2J[3J[H[36mStarting the development server...[39m
+[36m[39m
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/App.js
+Module not found: Can't resolve './Toggle' in '/Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src'
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Unexpected token (11:27)
+
+[0m [90m  9 |[39m     render() {[0m
+[0m [90m 10 |[39m         [36mreturn[39m ([0m
+[0m[31m[1m>[22m[39m[90m 11 |[39m             [33m<[39m[33mbutton[39m onClick[33m=>[39m[0m
+[0m [90m    |[39m                            [31m[1m^[22m[39m[0m
+[0m [90m 12 |[39m                 {[36mthis[39m[33m.[39mstate[33m.[39misToggleOn [33m?[39m [32m"Stop"[39m [33m:[39m [32m"Start"[39m}[0m
+[0m [90m 13 |[39m             [33m<[39m[33m/[39m[33mbutton[39m[33m>[39m[0m
+[0m [90m 14 |[39m         )[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: JSX attributes must only be assigned a non-empty expression (11:28)
+
+[0m [90m  9 |[39m     render() {[0m
+[0m [90m 10 |[39m         [36mreturn[39m ([0m
+[0m[31m[1m>[22m[39m[90m 11 |[39m             [33m<[39m[33mbutton[39m onClick[33m=[39m{}[33m>[39m[0m
+[0m [90m    |[39m                             [31m[1m^[22m[39m[0m
+[0m [90m 12 |[39m                 {[36mthis[39m[33m.[39mstate[33m.[39misToggleOn [33m?[39m [32m"Stop"[39m [33m:[39m [32m"Start"[39m}[0m
+[0m [90m 13 |[39m             [33m<[39m[33m/[39m[33mbutton[39m[33m>[39m[0m
+[0m [90m 14 |[39m         )[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m[0m
+[0m [90m 11 |[39m     render() {[0m
+[0m [90m 12 |[39m         [36mreturn[39m ([0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39m[36mset[39m[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState({})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState({isT})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState({isToggleOn})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prev{isToggleOn})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevS{isToggleOn})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState {isToggleOn})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m {isToggleOn})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m {isToggleOn[33m:[39m})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m {isToggleOn[33m:[39m[33m![39m})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m {isToggleOn[33m:[39m[33m![39mprev})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m {isToggleOn[33m:[39m[33m![39mprevState})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m {isToggleOn[33m:[39m[33m![39mprevState[33m.[39misToggleOn})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m {isToggleOn[33m:[39m[33m![39mprevState[33m.[39misToggleOn})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m {isToggleOn[33m:[39m [33m![39mprevState[33m.[39misToggleOn})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({isToggleOn[33m:[39m [33m![39mprevState[33m.[39misToggleOn})[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({isToggleOn[33m:[39m [33m![39mprevState[33m.[39misToggleOn}))[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (9:20)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     handleClick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m                     [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({isToggleOn[33m:[39m [33m![39mprevState[33m.[39misToggleOn}))[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Missing semicolon (11:12)
+
+[0m [90m  9 |[39m     handleClick [33m=[39m () [33m=>[39m {[0m
+[0m [90m 10 |[39m         [36mlet[39m[0m
+[0m[31m[1m>[22m[39m[90m 11 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({isToggleOn[33m:[39m [33m![39mprevState[33m.[39misToggleOn}))[0m
+[0m [90m    |[39m             [31m[1m^[22m[39m[0m
+[0m [90m 12 |[39m     }[0m
+[0m [90m 13 |[39m[0m
+[0m [90m 14 |[39m     render() {[0m
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggl' is defined but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggle' is defined but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is defined but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is defined but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Unexpected token, expected "(" (13:8)
+
+[0m [90m 11 |[39m[0m
+[0m [90m 12 |[39m         [36mif[39m [0m
+[0m[31m[1m>[22m[39m[90m 13 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({isToggleOn[33m:[39m [33m![39mprevState[33m.[39misToggleOn}))[0m
+[0m [90m    |[39m         [31m[1m^[22m[39m[0m
+[0m [90m 14 |[39m     }[0m
+[0m [90m 15 |[39m[0m
+[0m [90m 16 |[39m     render() {[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Unexpected token (12:12)
+
+[0m [90m 10 |[39m         [36mlet[39m toggleValue [33m=[39m [36mfalse[39m[33m;[39m[0m
+[0m [90m 11 |[39m[0m
+[0m[31m[1m>[22m[39m[90m 12 |[39m         [36mif[39m ()[0m
+[0m [90m    |[39m             [31m[1m^[22m[39m[0m
+[0m [90m 13 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({isToggleOn[33m:[39m [33m![39mprevState[33m.[39misToggleOn}))[0m
+[0m [90m 14 |[39m     }[0m
+[0m [90m 15 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Unexpected token (12:40)
+
+[0m [90m 10 |[39m         [36mlet[39m toggleValue [33m=[39m [36mfalse[39m[33m;[39m[0m
+[0m [90m 11 |[39m[0m
+[0m[31m[1m>[22m[39m[90m 12 |[39m         [36mif[39m ([36mthis[39m[33m.[39msetState[33m.[39misToggleOn [33m===[39m)[0m
+[0m [90m    |[39m                                         [31m[1m^[22m[39m[0m
+[0m [90m 13 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({isToggleOn[33m:[39m [33m![39mprevState[33m.[39misToggleOn}))[0m
+[0m [90m 14 |[39m     }[0m
+[0m [90m 15 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Unexpected token (12:41)
+
+[0m [90m 10 |[39m         [36mlet[39m toggleValue [33m=[39m [36mfalse[39m[33m;[39m[0m
+[0m [90m 11 |[39m[0m
+[0m[31m[1m>[22m[39m[90m 12 |[39m         [36mif[39m ([36mthis[39m[33m.[39msetState[33m.[39misToggleOn [33m===[39m )[0m
+[0m [90m    |[39m                                          [31m[1m^[22m[39m[0m
+[0m [90m 13 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({isToggleOn[33m:[39m [33m![39mprevState[33m.[39misToggleOn}))[0m
+[0m [90m 14 |[39m     }[0m
+[0m [90m 15 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Toggle.js
+  [1mLine 12:42:[22m  'tr' is not defined  [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Toggle.js
+  [1mLine 13:13:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 13:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 13:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 13:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 13:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 13:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 13:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 13:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 15:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 15:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 15:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Toggle.js
+  [1mLine 18:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+  [1mLine 18:9:[22m  'thid' is not defined                                                  [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 15:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+  [1mLine 18:13:[22m  Expected dot to be on same line as property       [33m[4mdot-location[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Toggle.js
+  [1mLine 18:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Toggle.js
+  [1mLine 18:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 15:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Toggle.js
+  [1mLine 18:24:[22m  'is' is not defined  [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Toggle.js
+  [1mLine 18:24:[22m  'isToggleOn' is not defined  [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Toggle.js
+  [1mLine 18:36:[22m  'togg' is not defined  [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Toggle.js
+  [1mLine 10:13:[22m  'toggleValue' is assigned a value but never used  [33m[4mno-unused-vars[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/App.js
+  [1mLine 6:2:[22m  'Clock' is not defined  [31m[4mreact/jsx-no-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/App.js
+Module not found: Can't resolve './Clock' in '/Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src'
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/App.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/App.js: Unexpected token (2:13)
+
+[0m [90m 1 |[39m [36mimport[39m [32m'./App.css'[39m[33m;[39m[0m
+[0m[31m[1m>[22m[39m[90m 2 |[39m [36mimport[39m  [36mfrom[39m [32m'./Clock'[39m[33m;[39m[0m
+[0m [90m   |[39m              [31m[1m^[22m[39m[0m
+[0m [90m 3 |[39m[0m
+[0m [90m 4 |[39m [36mfunction[39m [33mApp[39m() {[0m
+[0m [90m 5 |[39m   [36mreturn[39m ([0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/App.js
+Module not found: Can't resolve './Clock' in '/Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src'
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/App.js
+Module not found: Can't resolve './Clock' in '/Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src'
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unterminated JSX contents (8:18)
+
+[0m [90m  6 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m  7 |[39m                 [33m<[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m  8 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m    |[39m                   [31m[1m^[22m[39m[0m
+[0m [90m  9 |[39m         )[0m
+[0m [90m 10 |[39m     }[0m
+[0m [90m 11 |[39m }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unterminated JSX contents (8:18)
+
+[0m [90m  6 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m  7 |[39m                 [33m<[39m[33mp[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m  8 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m    |[39m                   [31m[1m^[22m[39m[0m
+[0m [90m  9 |[39m         )[0m
+[0m [90m 10 |[39m     }[0m
+[0m [90m 11 |[39m }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (8:12)
+
+[0m [90m  6 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m  7 |[39m                 [33m<[39m[33mp[39m[33m>[39m[33m<[39m[0m
+[0m[31m[1m>[22m[39m[90m  8 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m    |[39m             [31m[1m^[22m[39m[0m
+[0m [90m  9 |[39m         )[0m
+[0m [90m 10 |[39m     }[0m
+[0m [90m 11 |[39m }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Classes may not have a field named 'constructor' (4:4)
+
+[0m [90m 2 |[39m[0m
+[0m [90m 3 |[39m [36mexport[39m [36mdefault[39m [36mclass[39m [33mClock[39m [36mextends[39m [33mComponent[39m {[0m
+[0m[31m[1m>[22m[39m[90m 4 |[39m     constructor[0m
+[0m [90m   |[39m     [31m[1m^[22m[39m[0m
+[0m [90m 5 |[39m[0m
+[0m [90m 6 |[39m[0m
+[0m [90m 7 |[39m     render() {[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Clock.js
+  [1mLine 4:5:[22m  Useless constructor  [33m[4mno-useless-constructor[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 6:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (7:4)
+
+[0m [90m  5 |[39m         [36msuper[39m()[33m;[39m[0m
+[0m [90m  6 |[39m         [36mthis[39m[33m.[39mstate [33m=[39m [0m
+[0m[31m[1m>[22m[39m[90m  7 |[39m     }[0m
+[0m [90m    |[39m     [31m[1m^[22m[39m[0m
+[0m [90m  8 |[39m[0m
+[0m [90m  9 |[39m[0m
+[0m [90m 10 |[39m     render() {[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 6:23:[22m  'seco' is not defined  [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (13:21)
+
+[0m [90m 11 |[39m         [36mreturn[39m ([0m
+[0m [90m 12 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 13 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m [90m    |[39m                      [31m[1m^[22m[39m[0m
+[0m [90m 14 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 15 |[39m         )[0m
+[0m [90m 16 |[39m     }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Missing semicolon (9:13)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     tick [33m=[39m {} [33m=>[39m[0m
+[0m [90m    |[39m              [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m[0m
+[0m [90m 11 |[39m[0m
+[0m [90m 12 |[39m     render() {[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Missing semicolon (9:13)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     tick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m              [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Missing semicolon (9:13)
+
+[0m [90m  7 |[39m     }[0m
+[0m [90m  8 |[39m[0m
+[0m[31m[1m>[22m[39m[90m  9 |[39m     tick [33m=[39m {} [33m=>[39m {[0m
+[0m [90m    |[39m              [31m[1m^[22m[39m[0m
+[0m [90m 10 |[39m         [0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (11:4)
+
+[0m [90m  9 |[39m     componentDidMount() {[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39m[0m
+[0m[31m[1m>[22m[39m[90m 11 |[39m     }[0m
+[0m [90m    |[39m     [31m[1m^[22m[39m[0m
+[0m [90m 12 |[39m[0m
+[0m [90m 13 |[39m     tick [33m=[39m () [33m=>[39m {[0m
+[0m [90m 14 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({seconds[33m:[39m [33m![39mprevState[33m.[39mseconds [33m+[39m [35m1[39m}))[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 10:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 10:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 10:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 10:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (11:4)
+
+[0m [90m  9 |[39m     componentDidMount() {[0m
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39mtimerId [33m=[39m [0m
+[0m[31m[1m>[22m[39m[90m 11 |[39m     }[0m
+[0m [90m    |[39m     [31m[1m^[22m[39m[0m
+[0m [90m 12 |[39m[0m
+[0m [90m 13 |[39m     tick [33m=[39m () [33m=>[39m {[0m
+[0m [90m 14 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({seconds[33m:[39m [33m![39mprevState[33m.[39mseconds [33m+[39m [35m1[39m}))[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 10:24:[22m  'set' is not defined  [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (10:36)
+
+[0m [90m  8 |[39m[0m
+[0m [90m  9 |[39m     componentDidMount() {[0m
+[0m[31m[1m>[22m[39m[90m 10 |[39m         [36mthis[39m[33m.[39mtimerId [33m=[39m setInterval(())[0m
+[0m [90m    |[39m                                     [31m[1m^[22m[39m[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[0m [90m 13 |[39m     tick [33m=[39m () [33m=>[39m {[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (10:36)
+
+[0m [90m  8 |[39m[0m
+[0m [90m  9 |[39m     componentDidMount() {[0m
+[0m[31m[1m>[22m[39m[90m 10 |[39m         [36mthis[39m[33m.[39mtimerId [33m=[39m setInterval(() )[0m
+[0m [90m    |[39m                                     [31m[1m^[22m[39m[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[0m [90m 13 |[39m     tick [33m=[39m () [33m=>[39m {[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (10:36)
+
+[0m [90m  8 |[39m[0m
+[0m [90m  9 |[39m     componentDidMount() {[0m
+[0m[31m[1m>[22m[39m[90m 10 |[39m         [36mthis[39m[33m.[39mtimerId [33m=[39m setInterval(() [33m=[39m)[0m
+[0m [90m    |[39m                                     [31m[1m^[22m[39m[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[0m [90m 13 |[39m     tick [33m=[39m () [33m=>[39m {[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (10:46)
+
+[0m [90m  8 |[39m[0m
+[0m [90m  9 |[39m     componentDidMount() {[0m
+[0m[31m[1m>[22m[39m[90m 10 |[39m         [36mthis[39m[33m.[39mtimerId [33m=[39m setInterval(() [33m=>[39m [36mthis[39m[33m.[39m)[0m
+[0m [90m    |[39m                                               [31m[1m^[22m[39m[0m
+[0m [90m 11 |[39m     }[0m
+[0m [90m 12 |[39m[0m
+[0m [90m 13 |[39m     tick [33m=[39m () [33m=>[39m {[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (23:12)
+
+[0m [90m 21 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m [90m 22 |[39m                 [33m<[39m[0m
+[0m[31m[1m>[22m[39m[90m 23 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m    |[39m             [31m[1m^[22m[39m[0m
+[0m [90m 24 |[39m         )[0m
+[0m [90m 25 |[39m     }[0m
+[0m [90m 26 |[39m }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (23:12)
+
+[0m [90m 21 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m [90m 22 |[39m                 [33m<[39m[33mTo[39m[0m
+[0m[31m[1m>[22m[39m[90m 23 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m    |[39m             [31m[1m^[22m[39m[0m
+[0m [90m 24 |[39m         )[0m
+[0m [90m 25 |[39m     }[0m
+[0m [90m 26 |[39m }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (23:12)
+
+[0m [90m 21 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m [90m 22 |[39m                 [33m<[39m[33mToggle[39m[0m
+[0m[31m[1m>[22m[39m[90m 23 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m    |[39m             [31m[1m^[22m[39m[0m
+[0m [90m 24 |[39m         )[0m
+[0m [90m 25 |[39m     }[0m
+[0m [90m 26 |[39m }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (24:12)
+
+[0m [90m 22 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m [90m 23 |[39m                 [33m<[39m[33mToggle[39m[0m
+[0m[31m[1m>[22m[39m[90m 24 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m    |[39m             [31m[1m^[22m[39m[0m
+[0m [90m 25 |[39m         )[0m
+[0m [90m 26 |[39m     }[0m
+[0m [90m 27 |[39m }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 16:5:[22m  'tick' is not defined  [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (14:13)
+
+[0m [90m 12 |[39m     }[0m
+[0m [90m 13 |[39m[0m
+[0m[31m[1m>[22m[39m[90m 14 |[39m     start [33m=[39m ()[0m
+[0m [90m    |[39m              [31m[1m^[22m[39m[0m
+[0m [90m 15 |[39m[0m
+[0m [90m 16 |[39m     tick [33m=[39m () [33m=>[39m {[0m
+[0m [90m 17 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({seconds[33m:[39m prevState[33m.[39mseconds [33m+[39m [35m1[39m}))[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (14:13)
+
+[0m [90m 12 |[39m     }[0m
+[0m [90m 13 |[39m[0m
+[0m[31m[1m>[22m[39m[90m 14 |[39m     start [33m=[39m () [0m
+[0m [90m    |[39m              [31m[1m^[22m[39m[0m
+[0m [90m 15 |[39m[0m
+[0m [90m 16 |[39m     tick [33m=[39m () [33m=>[39m {[0m
+[0m [90m 17 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({seconds[33m:[39m prevState[33m.[39mseconds [33m+[39m [35m1[39m}))[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 16:5:[22m  'tick' is not defined  [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 19:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (19:27)
+
+[0m [90m 17 |[39m[0m
+[0m [90m 18 |[39m     stop [33m=[39m () [33m=>[39m {[0m
+[0m[31m[1m>[22m[39m[90m 19 |[39m         clearInterval([36mthis[39m[33m.[39m)[0m
+[0m [90m    |[39m                            [31m[1m^[22m[39m[0m
+[0m [90m 20 |[39m     }[0m
+[0m [90m 21 |[39m[0m
+[0m [90m 22 |[39m     tick [33m=[39m () [33m=>[39m {[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 11:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 11:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 11:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[33mCompiled with warnings.[39m
+[33m[39m
+src/Clock.js
+  [1mLine 14:5:[22m  Duplicate name 'componentDidMount'  [33m[4mno-dupe-class-members[24m[39m
+
+Search for the [4m[33mkeywords[39m[24m to learn more about each warning.
+To ignore, add [36m// eslint-disable-next-line[39m to the line before.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: JSX value should be either an expression or a quoted JSX text (34:30)
+
+[0m [90m 32 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 33 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 34 |[39m                 [33m<[39m[33mToggle[39m start[33m=[39m([33m/[39m[33m>[39m[0m
+[0m [90m    |[39m                               [31m[1m^[22m[39m[0m
+[0m [90m 35 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 36 |[39m         )[0m
+[0m [90m 37 |[39m     }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: JSX value should be either an expression or a quoted JSX text (34:30)
+
+[0m [90m 32 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 33 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 34 |[39m                 [33m<[39m[33mToggle[39m start[33m=[39m()[33m/[39m[33m>[39m[0m
+[0m [90m    |[39m                               [31m[1m^[22m[39m[0m
+[0m [90m 35 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 36 |[39m         )[0m
+[0m [90m 37 |[39m     }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: JSX value should be either an expression or a quoted JSX text (34:30)
+
+[0m [90m 32 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 33 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 34 |[39m                 [33m<[39m[33mToggle[39m start[33m=[39m([36mthis[39m)[33m/[39m[33m>[39m[0m
+[0m [90m    |[39m                               [31m[1m^[22m[39m[0m
+[0m [90m 35 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 36 |[39m         )[0m
+[0m [90m 37 |[39m     }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: JSX value should be either an expression or a quoted JSX text (34:30)
+
+[0m [90m 32 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 33 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 34 |[39m                 [33m<[39m[33mToggle[39m start[33m=[39m([36mthis[39m[33m.[39mstart)[33m/[39m[33m>[39m[0m
+[0m [90m    |[39m                               [31m[1m^[22m[39m[0m
+[0m [90m 35 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 36 |[39m         )[0m
+[0m [90m 37 |[39m     }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: JSX value should be either an expression or a quoted JSX text (34:30)
+
+[0m [90m 32 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 33 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 34 |[39m                 [33m<[39m[33mToggle[39m start[33m=[39m([36mthis[39m[33m.[39mstart) stop[33m/[39m[33m>[39m[0m
+[0m [90m    |[39m                               [31m[1m^[22m[39m[0m
+[0m [90m 35 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 36 |[39m         )[0m
+[0m [90m 37 |[39m     }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: JSX value should be either an expression or a quoted JSX text (34:30)
+
+[0m [90m 32 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 33 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 34 |[39m                 [33m<[39m[33mToggle[39m start[33m=[39m([36mthis[39m[33m.[39mstart) stop[33m=[39m[33m/[39m[33m>[39m[0m
+[0m [90m    |[39m                               [31m[1m^[22m[39m[0m
+[0m [90m 35 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 36 |[39m         )[0m
+[0m [90m 37 |[39m     }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: JSX value should be either an expression or a quoted JSX text (34:30)
+
+[0m [90m 32 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 33 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 34 |[39m                 [33m<[39m[33mToggle[39m start[33m=[39m([36mthis[39m[33m.[39mstart} stop[33m=[39m[33m/[39m[33m>[39m[0m
+[0m [90m    |[39m                               [31m[1m^[22m[39m[0m
+[0m [90m 35 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 36 |[39m         )[0m
+[0m [90m 37 |[39m     }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: JSX value should be either an expression or a quoted JSX text (34:30)
+
+[0m [90m 32 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 33 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 34 |[39m                 [33m<[39m[33mToggle[39m start[33m=[39m[36mthis[39m[33m.[39mstart} stop[33m=[39m[33m/[39m[33m>[39m[0m
+[0m [90m    |[39m                               [31m[1m^[22m[39m[0m
+[0m [90m 35 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 36 |[39m         )[0m
+[0m [90m 37 |[39m     }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unterminated regular expression (34:49)
+
+[0m [90m 32 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 33 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 34 |[39m                 [33m<[39m[33mToggle[39m start[33m=[39m{[36mthis[39m[33m.[39mstart} stop[33m=[39m[33m/[39m[33m>[39m[0m
+[0m [90m    |[39m                                                  [31m[1m^[22m[39m[0m
+[0m [90m 35 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 36 |[39m         )[0m
+[0m [90m 37 |[39m     }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: JSX attributes must only be assigned a non-empty expression (34:48)
+
+[0m [90m 32 |[39m             [33m<[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 33 |[39m                 [33m<[39m[33mp[39m[33m>[39m{[36mthis[39m[33m.[39mstate[33m.[39mseconds}[33m<[39m[33m/[39m[33mp[39m[33m>[39m[0m
+[0m[31m[1m>[22m[39m[90m 34 |[39m                 [33m<[39m[33mToggle[39m start[33m=[39m{[36mthis[39m[33m.[39mstart} stop[33m=[39m{}[33m/[39m[33m>[39m[0m
+[0m [90m    |[39m                                                 [31m[1m^[22m[39m[0m
+[0m [90m 35 |[39m             [33m<[39m[33m/[39m[33mdiv[39m[33m>[39m[0m
+[0m [90m 36 |[39m         )[0m
+[0m [90m 37 |[39m     }[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Unexpected token, expected "(" (13:4)
+
+[0m [90m 11 |[39m[0m
+[0m [90m 12 |[39m         [36mif[39m [0m
+[0m[31m[1m>[22m[39m[90m 13 |[39m     }[0m
+[0m [90m    |[39m     [31m[1m^[22m[39m[0m
+[0m [90m 14 |[39m[0m
+[0m [90m 15 |[39m     render() {[0m
+[0m [90m 16 |[39m         [36mreturn[39m ([0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Unexpected token (13:4)
+
+[0m [90m 11 |[39m[0m
+[0m [90m 12 |[39m         [36mif[39m ([36mthis[39m)[0m
+[0m[31m[1m>[22m[39m[90m 13 |[39m     }[0m
+[0m [90m    |[39m     [31m[1m^[22m[39m[0m
+[0m [90m 14 |[39m[0m
+[0m [90m 15 |[39m     render() {[0m
+[0m [90m 16 |[39m         [36mreturn[39m ([0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Unexpected token (12:17)
+
+[0m [90m 10 |[39m         [36mthis[39m[33m.[39msetState(prevState [33m=>[39m ({isToggleOn[33m:[39m [33m![39mprevState[33m.[39misToggleOn}))[0m
+[0m [90m 11 |[39m[0m
+[0m[31m[1m>[22m[39m[90m 12 |[39m         [36mif[39m ([36mthis[39m[33m.[39m)[0m
+[0m [90m    |[39m                  [31m[1m^[22m[39m[0m
+[0m [90m 13 |[39m     }[0m
+[0m [90m 14 |[39m[0m
+[0m [90m 15 |[39m     render() {[0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Unexpected token (13:4)
+
+[0m [90m 11 |[39m[0m
+[0m [90m 12 |[39m         [36mif[39m ([36mthis[39m[33m.[39mstate)[0m
+[0m[31m[1m>[22m[39m[90m 13 |[39m     }[0m
+[0m [90m    |[39m     [31m[1m^[22m[39m[0m
+[0m [90m 14 |[39m[0m
+[0m [90m 15 |[39m     render() {[0m
+[0m [90m 16 |[39m         [36mreturn[39m ([0m
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Toggle.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Toggle.js: Unexpected token (13:4)
+
+[0m [90m 11 |[39m[0m
+[0m [90m 12 |[39m         [36mif[39m ([36mthis[39m[33m.[39mstate[33m.[39misToggleOn)[0m
+[0m[31m[1m>[22m[39m[90m 13 |[39m     }[0m
+[0m [90m    |[39m     [31m[1m^[22m[39m[0m
+[0m [90m 14 |[39m[0m
+[0m [90m 15 |[39m     render() {[0m
+[0m [90m 16 |[39m         [36mreturn[39m ([0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Toggle.js
+  [1mLine 13:13:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Toggle.js
+  [1mLine 13:13:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Toggle.js
+  [1mLine 13:13:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 23:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 23:9:[22m  Expected an assignment or function call and instead saw an expression  [31m[4mno-unused-expressions[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+src/Clock.js
+  [1mLine 23:24:[22m  'seconds' is not defined  [31m[4mno-undef[24m[39m
+
+Search for the [4m[31mkeywords[39m[24m to learn more about each error.
+[2J[3J[HCompiling...
+[2J[3J[H[31mFailed to compile.[39m
+[31m[39m
+./src/Clock.js
+SyntaxError: /Users/artem/MEGA/OAMK/H2C - React/React_app/Stopwatch/src/Clock.js: Unexpected token (23:32)
+
+[0m [90m 21 |[39m[0m
+[0m [90m 22 |[39m     stop [33m=[39m () [33m=>[39m {[0m
+[0m[31m[1m>[22m[39m[90m 23 |[39m         [36mthis[39m[33m.[39msetState({seconds[33m:[39m })[0m
+[0m [90m    |[39m                                 [31m[1m^[22m[39m[0m
+[0m [90m 24 |[39m         clearInterval([36mthis[39m[33m.[39mtimerId)[33m;[39m[0m
+[0m [90m 25 |[39m     }[0m
+[0m [90m 26 |[39m[0m
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+[2J[3J[HCompiling...
+[2J[3J[H[32mCompiled successfully![39m
+
+You can now view [1mdemo3[22m in the browser.
+
+  [1mLocal:[22m            http://localhost:[1m3000[22m
+  [1mOn Your Network:[22m  http://192.168.1.65:[1m3000[22m
+
+Note that the development build is not optimized.
+To create a production build, use [36mnpm run build[39m.
+
+ç ^C
+[1m[7m%[27m[1m[0m                                                                                                                                                            [0m[27m[24m[Jartem@MBP-Artem demo3 % [K[?2004h
