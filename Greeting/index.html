@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Greeting</title>
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+</head>
+
+<body>
+    <div id="root"></div>
+    <script type="text/babel">
+        const person = {
+            firstname: "Artem",
+            lastname: "Vinogradov"
+        }
+
+        const element = (
+            <div>
+                <h3>
+                    Greetings
+                </h3>
+                <p>
+                    {person.firstname} {person.lastname}
+                </p>
+            </div>
+        );
+
+        ReactDOM.render(
+            element,
+            document.getElementById('root')
+        );
+
+    </script>
+</body>
+
+</html>

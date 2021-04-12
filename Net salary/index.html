@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Loan calculator</title>
+    <script src="https://unpkg.com/react@17/umd/react.development.js"></script>
+    <script src="https://unpkg.com/react-dom@17/umd/react-dom.development.js"></script>
+
+    <!-- Don't use this in production: -->
+    <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+    <style>
+        div{margin-bottom: 20px;}
+        label{display: inline-block; width: 100px;}
+    </style>
+</head>
+
+<body>
+    <div id="root"></div>
+    <script type="text/babel">
+        class Annuity extends React.Component {
+            constructor(props) {
+                super(props);
+                this.state = {
+                    amount: 0,
+                    time: 1,
+                    interest: 0.25,
+                    payment: 0
+                }
+            }
+
+            fillOptionsForTime() {
+                const times = [];
+                for (let i = 1; i <=30; i++) {
+                    times.push(<option key={i} value={i}>{i} years</option>);
+                }
+                return times;
+            }
+
+            fillOptionsForInterest() {
+                const interests = [];
+                for (let i = 0.25; i <=10; i = i + 0.25) {
+                    interests.push(<option key={i} value={i}>{i.toFixed(2)} %</option>);
+                }
+                return interests;
+            }
+
+            readValue = (event) => {
+                this.setState({[event.target.name]: event.target.value})
+            }
+
+            calculate = (event) => {
+                event.preventDefault();
+                const {amount, time, interest} = this.state;
+                const dividedInterest = interest / 100;
+                const months = time * 12;
+                const dividend = dividedInterest / 12 * Math.pow(1 + dividedInterest / 12, months);
+                const divider = Math.pow(1 + dividedInterest / 12, months)-1;
+                const monthlyPayment = dividend / divider * amount;
+                this.setState({payment: monthlyPayment})
+            }
+
+            render() {
+                const {amount, time, interest, payment} = this.state;
+                return (
+                    <div>
+                        <h3>Annuity loan calculate</h3>
+                        <form onSubmit={this.calculate}>
+                            <div>
+                                <label>Amount</label>
+                                <input name="amount" type="number" value={amount} onChange={this.readValue}/>
+                            </div>
+                            <div>
+                                <label>Time</label>
+                                <select name="time" value={time} onChange={this.readValue}>
+                                    {this.fillOptionsForTime()}
+                                </select>
+                            </div>
+                            <div>
+                                <label>Interest</label>
+                                <select name="interest" value={interest} onChange={this.readValue}>
+                                    {this.fillOptionsForInterest()}
+                                </select>
+                            </div>
+                            <div>
+                                <label>Payment</label>
+                                <output>{payment.toFixed(2)} €</output>
+                            </div>
+                            <button>Calculate</button>
+                        </form>
+                    </div>
+                )
+            }
+        }
+
+
+        ReactDOM.render(
+            <Annuity />,
+            document.getElementById('root')
+        );
+
+        </script>
+    </body>
+</html>
