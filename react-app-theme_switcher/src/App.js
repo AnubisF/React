@@ -16,7 +16,7 @@ function App() {
         <GlobalStyles />
         <h1>Switching themes</h1>
         <button onClick={toggleTheme}>Switch theme</button>
-      <>
+      </>
     </ThemeProvider>
   );
 }
