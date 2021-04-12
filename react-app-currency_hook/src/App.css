@@ -1,0 +1,12 @@
+.container {
+  margin: 50px;
+}
+
+.container div {
+  margin-bottom: 20px;
+}
+
+.container label {
+  width: 100px;
+  display: inline-block;
+}
