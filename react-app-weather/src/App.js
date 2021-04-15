@@ -5,14 +5,14 @@ import Weather from './Weather';
 function App() {
   const [lat, setLat] = useState(0);
   const [lng, setLng] = useState(0);
-  const [isLoading, setIsloading] = useState(true);
+  const [isLoading, setLoading] = useState(true);
 
   useEffect(() => {
     if (navigator.geolocation) {
       navigator.geolocation.getCurrentPosition(position => {
         setLat(position.coords.latitude);
         setLng(position.coords.longitude);
-        setIsloading(false);
+        setLoading(false);
       }, (error) => {
         alert(error);
       })
@@ -24,7 +24,7 @@ function App() {
   }, [])
 
   if (isLoading) {
-    return <p>Loading...</p>;
+    return <p>Loading ...</p>;
   }
   else {
     return (
